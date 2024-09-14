@@ -32,6 +32,7 @@
 ## Main Projects
 
 [![ML Project](https://img.shields.io/badge/ML%20Project-blue?style=flat&logo=python&logoColor=white)](https://github.com/sanepunk/ml)
+[![VAE-SkipNet](https://img.shields.io/badge/ML%20Project-blue?style=flat&logo=python&logoColor=white)](https://github.com/sanepunk/VAE-SkipNet)
 
 
 
