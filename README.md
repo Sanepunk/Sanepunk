@@ -13,7 +13,7 @@
 - 👨🏽‍💻 Working on [Supervised Deep Learning](https://github.com/Sanepunk/ML)
 - 🌱 Currently focusing on Deep-CNN
 - 💬 Feel free to ask me anything; I'm here to help
-- ⚡️ Fun Fact: I'm a sophomore in the Information Technology Department
+- ⚡️ Fun Fact: I'm a prefinal year undergraduate in the Information Technology Department
 
 **Languages and Tools:** 
 
