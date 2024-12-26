@@ -21,7 +21,8 @@
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
-<code><img width="7%" src="https://www.nebrija.com/medios/actualidadnebrija/wp-content/uploads/sites/2/2020/05/Matlab_logo.jpg"></code>
+<code><img width="5%" src="https://www.nebrija.com/medios/actualidadnebrija/wp-content/uploads/sites/2/2020/05/Matlab_logo.jpg"></code>
+<code><img width="5%" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
 
 
 ---
