@@ -29,14 +29,13 @@
 
 ---
 
-
----
-
 ## Main Projects
 
 [![ML Project](https://img.shields.io/badge/ML%20Project-blue?style=flat&logo=python&logoColor=white)](https://github.com/sanepunk/ml)
 [![VAE-SkipNet Project](https://img.shields.io/badge/VAE--SkipNet%20Project-blue?style=flat&logo=python&logoColor=white)](https://github.com/sanepunk/VAE-SkipNet)
+[![Static Badge](https://img.shields.io/badge/DCGAN-blue?style=flat&logo=python&logoColor=white)](https://github.com/sanepunk/DCGAN)
+[![Static Badge](https://img.shields.io/badge/ViT-blue?style=flat&logo=python&logoColor=white)](https://github.com/sanepunk/ViT)
+[![Static Badge](https://img.shields.io/badge/jackofalltrades-blue?style=flat&logo=python&logoColor=white)](https://github.com/lazy-punk/jackofalltrades)
 
-
-
+---
 
