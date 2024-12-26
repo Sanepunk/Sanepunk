@@ -17,12 +17,14 @@
 
 **Languages and Tools:** 
 
-<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
-<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
-<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
-<code><img width="5%" src="https://www.nebrija.com/medios/actualidadnebrija/wp-content/uploads/sites/2/2020/05/Matlab_logo.jpg"></code>
+<code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
+<code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
+<code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
+<code><img width="3%" src="https://www.nebrija.com/medios/actualidadnebrija/wp-content/uploads/sites/2/2020/05/Matlab_logo.jpg"></code>
 <code><img width="5%" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
+<code><img width="5%" src="https://www.svgrepo.com/show/376330/julia.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 
 
 ---
